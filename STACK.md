@@ -113,6 +113,19 @@ must be resolved from lockfiles and build outputs in the next phase.
 An excluded repository must be added if a reproducible selected-root build
 proves it is a runtime, build, conformance, or normative dependency.
 
+## Submodule workspace hygiene
+
+An audit of the pinned roots found that 44 of 46 repositories provide their
+own root `.gitignore`. The following official snapshots do not:
+
+- `eudi-srv-status-validator-py`
+- `eudi-doc-standards-and-technical-specifications`
+
+Their gitlinks must remain unmodified official commits. Build and generation
+automation for these repositories should therefore use disposable worktrees or
+explicitly scoped cleanup and must fail if unexpected files remain. Ignore
+rules in this parent repository do not govern files inside submodule worktrees.
+
 ## Formal-assurance direction
 
 The target is not a single undifferentiated claim that "all code is verified."
