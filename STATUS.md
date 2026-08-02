@@ -8,6 +8,7 @@
 - [x] Document included repositories, roles, pins, dependency relationships, and exclusions.
 - [x] Add the reviewed repository set as pinned Git submodules grouped under `sources/`.
 - [x] Verify recursive submodule initialization, gitlink integrity, and clean repository state.
+- [x] Add conservative workspace ignore rules for OS metadata, editors, local secrets, dependency caches, build products, and test reports.
 - [ ] Establish reproducible build and test baselines for every selected component.
 - [ ] Produce a dependency-by-dependency formal-assurance matrix.
 - [ ] Reuse applicable Lean, Tamarin, Rust-kernel, conformance-vector, fuzzing, and mutation work from EUWallet, VCIssuer, and VCVerifier.
