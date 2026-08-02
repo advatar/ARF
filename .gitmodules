@@ -1,0 +1,138 @@
+[submodule "sources/specifications/eudi-doc-architecture-and-reference-framework"]
+	path = sources/specifications/eudi-doc-architecture-and-reference-framework
+	url = https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework.git
+[submodule "sources/specifications/eudi-doc-standards-and-technical-specifications"]
+	path = sources/specifications/eudi-doc-standards-and-technical-specifications
+	url = https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications.git
+[submodule "sources/specifications/eudi-doc-attestation-rulebooks-catalog"]
+	path = sources/specifications/eudi-doc-attestation-rulebooks-catalog
+	url = https://github.com/eu-digital-identity-wallet/eudi-doc-attestation-rulebooks-catalog.git
+[submodule "sources/conformance/eudi-doc-functional-conformance-assessment"]
+	path = sources/conformance/eudi-doc-functional-conformance-assessment
+	url = https://github.com/eu-digital-identity-wallet/eudi-doc-functional-conformance-assessment.git
+[submodule "sources/conformance/eudi-doc-testing-application"]
+	path = sources/conformance/eudi-doc-testing-application
+	url = https://github.com/eu-digital-identity-wallet/eudi-doc-testing-application.git
+[submodule "sources/conformance/eudi-itb"]
+	path = sources/conformance/eudi-itb
+	url = https://github.com/eu-digital-identity-wallet/eudi-itb.git
+[submodule "sources/wallet-apps/eudi-app-ios-wallet-ui"]
+	path = sources/wallet-apps/eudi-app-ios-wallet-ui
+	url = https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui.git
+[submodule "sources/wallet-apps/eudi-app-android-wallet-ui"]
+	path = sources/wallet-apps/eudi-app-android-wallet-ui
+	url = https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui.git
+[submodule "sources/verifier-apps/eudi-app-multiplatform-verifier-ui"]
+	path = sources/verifier-apps/eudi-app-multiplatform-verifier-ui
+	url = https://github.com/eu-digital-identity-wallet/eudi-app-multiplatform-verifier-ui.git
+[submodule "sources/verifier-apps/eudi-web-verifier"]
+	path = sources/verifier-apps/eudi-web-verifier
+	url = https://github.com/eu-digital-identity-wallet/eudi-web-verifier.git
+[submodule "sources/wallet-core/eudi-lib-ios-wallet-kit"]
+	path = sources/wallet-core/eudi-lib-ios-wallet-kit
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit.git
+[submodule "sources/wallet-core/eudi-lib-android-wallet-core"]
+	path = sources/wallet-core/eudi-lib-android-wallet-core
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-core.git
+[submodule "sources/swift-libraries/SwiftCopyableMacro"]
+	path = sources/swift-libraries/SwiftCopyableMacro
+	url = https://github.com/eu-digital-identity-wallet/SwiftCopyableMacro.git
+[submodule "sources/swift-libraries/eudi-lib-ios-iso18013-data-model"]
+	path = sources/swift-libraries/eudi-lib-ios-iso18013-data-model
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-model.git
+[submodule "sources/swift-libraries/eudi-lib-ios-iso18013-data-transfer"]
+	path = sources/swift-libraries/eudi-lib-ios-iso18013-data-transfer
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-data-transfer.git
+[submodule "sources/swift-libraries/eudi-lib-ios-iso18013-security"]
+	path = sources/swift-libraries/eudi-lib-ios-iso18013-security
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-iso18013-security.git
+[submodule "sources/swift-libraries/eudi-lib-ios-openid4vci-swift"]
+	path = sources/swift-libraries/eudi-lib-ios-openid4vci-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift.git
+[submodule "sources/swift-libraries/eudi-lib-ios-openid4vp-swift"]
+	path = sources/swift-libraries/eudi-lib-ios-openid4vp-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vp-swift.git
+[submodule "sources/swift-libraries/eudi-lib-ios-presentation-exchange-swift"]
+	path = sources/swift-libraries/eudi-lib-ios-presentation-exchange-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-presentation-exchange-swift.git
+[submodule "sources/swift-libraries/eudi-lib-ios-rqes-csc-swift"]
+	path = sources/swift-libraries/eudi-lib-ios-rqes-csc-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-rqes-csc-swift.git
+[submodule "sources/swift-libraries/eudi-lib-ios-rqes-kit"]
+	path = sources/swift-libraries/eudi-lib-ios-rqes-kit
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-rqes-kit.git
+[submodule "sources/swift-libraries/eudi-lib-ios-rqes-ui"]
+	path = sources/swift-libraries/eudi-lib-ios-rqes-ui
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-rqes-ui.git
+[submodule "sources/swift-libraries/eudi-lib-ios-statium-swift"]
+	path = sources/swift-libraries/eudi-lib-ios-statium-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-statium-swift.git
+[submodule "sources/swift-libraries/eudi-lib-ios-wallet-storage"]
+	path = sources/swift-libraries/eudi-lib-ios-wallet-storage
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-storage.git
+[submodule "sources/swift-libraries/eudi-lib-sdjwt-swift"]
+	path = sources/swift-libraries/eudi-lib-sdjwt-swift
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-sdjwt-swift.git
+[submodule "sources/swift-libraries/eudi-lib-podofo"]
+	path = sources/swift-libraries/eudi-lib-podofo
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-podofo.git
+[submodule "sources/kotlin-libraries/eudi-lib-android-iso18013-data-transfer"]
+	path = sources/kotlin-libraries/eudi-lib-android-iso18013-data-transfer
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-iso18013-data-transfer.git
+[submodule "sources/kotlin-libraries/eudi-lib-android-rqes-core"]
+	path = sources/kotlin-libraries/eudi-lib-android-rqes-core
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-rqes-core.git
+[submodule "sources/kotlin-libraries/eudi-lib-android-rqes-ui"]
+	path = sources/kotlin-libraries/eudi-lib-android-rqes-ui
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-rqes-ui.git
+[submodule "sources/kotlin-libraries/eudi-lib-android-wallet-document-manager"]
+	path = sources/kotlin-libraries/eudi-lib-android-wallet-document-manager
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-document-manager.git
+[submodule "sources/kotlin-libraries/eudi-lib-android-verifier-core"]
+	path = sources/kotlin-libraries/eudi-lib-android-verifier-core
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-android-verifier-core.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-openid4vci-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-openid4vci-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-openid4vp-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-openid4vp-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-presentation-exchange-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-presentation-exchange-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-presentation-exchange-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-rqes-csc-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-rqes-csc-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-rqes-csc-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-sdjwt-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-sdjwt-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-jvm-trust-manager-kt"]
+	path = sources/kotlin-libraries/eudi-lib-jvm-trust-manager-kt
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-trust-manager-kt.git
+[submodule "sources/kotlin-libraries/eudi-lib-kmp-etsi-1196x2"]
+	path = sources/kotlin-libraries/eudi-lib-kmp-etsi-1196x2
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-kmp-etsi-1196x2.git
+[submodule "sources/kotlin-libraries/eudi-lib-kmp-statium"]
+	path = sources/kotlin-libraries/eudi-lib-kmp-statium
+	url = https://github.com/eu-digital-identity-wallet/eudi-lib-kmp-statium.git
+[submodule "sources/services/eudi-srv-pid-issuer"]
+	path = sources/services/eudi-srv-pid-issuer
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-pid-issuer.git
+[submodule "sources/services/eudi-srv-verifier-endpoint"]
+	path = sources/services/eudi-srv-verifier-endpoint
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-verifier-endpoint.git
+[submodule "sources/services/eudi-srv-wallet-provider"]
+	path = sources/services/eudi-srv-wallet-provider
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-wallet-provider.git
+[submodule "sources/services/eudi-srv-trust-validator"]
+	path = sources/services/eudi-srv-trust-validator
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-trust-validator.git
+[submodule "sources/services/eudi-srv-status-validator-py"]
+	path = sources/services/eudi-srv-status-validator-py
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-status-validator-py.git
+[submodule "sources/services/eudi-srv-statuslist-py"]
+	path = sources/services/eudi-srv-statuslist-py
+	url = https://github.com/eu-digital-identity-wallet/eudi-srv-statuslist-py.git
+[submodule "sources/services/keycloak-client-attestation-auth-ext"]
+	path = sources/services/keycloak-client-attestation-auth-ext
+	url = https://github.com/eu-digital-identity-wallet/keycloak-client-attestation-auth-ext.git
